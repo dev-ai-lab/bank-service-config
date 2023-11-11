@@ -1,14 +1,11 @@
 build:
-    version: 1
+  version: "1.0"
 
-cards:
-    activeBranches:
-    - Kehl
-    - Paris
-    - NewYork
-    mailDetails:
-        from: prod-cards@bank-service.com
-        hostName: prod-cards@bank-service.com
-        port: 9012
-        subject: Your Card Details from Bank Production Environment
-    msg: Welcome to the Bank Cards Prod application
+accounts:
+  message: "Bank cards PROD APIs"
+  contactDetails:
+    name: "Jan Doe - Support"
+    email: "{cipher}732993bdb0eaca99dfba12b002d879f2a5f99558d873a528293a52358c6374f7"
+  onCallSupport:
+    - (089) 666-3216
+    - (089) 666-3217

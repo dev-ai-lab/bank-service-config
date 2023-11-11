@@ -1,14 +1,11 @@
 build:
-    version: 1
+  version: "1.0"
 
-loans:
-    activeBranches:
-    - Freiburg
-    - Paris
-    - NewYork
-    mailDetails:
-        from: prod-loans@bank-service.com
-        hostName: prod-loans@bank-service.com
-        port: 9011
-        subject: Your Loan Details from Bank Production Environment
-    msg: Welcome to the Bank Loans Prod application
+accounts:
+  message: "Bank loans PROD APIs"
+  contactDetails:
+    name: "Jan Doe - Support"
+    email: "{cipher}732993bdb0eaca99dfba12b002d879f2a5f99558d873a528293a52358c6374f7"
+  onCallSupport:
+    - (089) 666-3216
+    - (089) 666-3217

@@ -1,14 +1,11 @@
 build:
-    version: 2
+  version: "2.0"
 
-cards:
-    activeBranches:
-    - Stuttgart
-    - Berlin
-    - Indianapollis
-    mailDetails:
-        from: dev-cards@bank-service.com
-        hostName: dev-cards@bank-service.com
-        port: 9022
-        subject: Your Card Details from Bank Dev Environment
-    msg: Welcome to the Bank Cards Dev application
+accounts:
+  message: "Bank cards DEV APIs "
+  contactDetails:
+    name: "Ahmad - Non-prod Support"
+    email: "ahmad@bank.com"
+  onCallSupport:
+    - (089) 666-3216
+    - (089) 666-3217

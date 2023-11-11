@@ -1,14 +1,11 @@
 build:
-    version: 4
+  version: "3.0"
 
 accounts:
-    activeBranches:
-    - Munich
-    - London
-    - Washington
-    mailDetails:
-        from: default-accounts@bank-service.com
-        hostName: default-accounts@bank-service.com
-        port: 9000
-        subject: Your Account Details from Bank Default Environment
-    msg: '{cipher}ba53ae64acc3c896af4f78a5436f6542dbdb5f1418840c008eb13da2be81803e89c49edcde15e28dfc7da8a08a4ca8db70e3b6a875ba123d15c2b2d5c925b3e378f1f46a2f54ab5b2dfeaa7be3e67195'
+  message: "Bank accounts APIs "
+  contactDetails:
+    name: "Jan Doe - Support"
+    email: "jan@bank.com"
+  onCallSupport:
+    - (089) 666-3216
+    - (089) 666-3217

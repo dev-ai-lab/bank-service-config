@@ -1,14 +1,11 @@
 build:
-    version: 2
+  version: "2.0"
 
-loans:
-    activeBranches:
-    - Bonn
-    - Berlin
-    - Indianapollis
-    mailDetails:
-        from: dev-loans@bank-service.com
-        hostName: dev-loans@bank-service.com
-        port: 9021
-        subject: Your Loan Details from Bank Dev Environment
-    msg: Welcome to the Bank Loans Dev application
+accounts:
+  message: "Bank loans DEV APIs "
+  contactDetails:
+    name: "Ahmad - Non-prod Support"
+    email: "ahmad@bank.com"
+  onCallSupport:
+    - (089) 666-3216
+    - (089) 666-3217

@@ -1,14 +1,11 @@
 build:
-    version: 3
+  version: "3.0"
 
-loans:
-    activeBranches:
-    - Stuttgart
-    - London
-    - Washington
-    mailDetails:
-        from: default-loans@bank-service.com
-        hostName: default-loans@bank-service.com
-        port: 9001
-        subject: Your Loan Details from Bank Default Environment
-    msg: Welcome to the Bank Loans Default application
+accounts:
+  message: "Bank loans APIs "
+  contactDetails:
+    name: "Jan Doe - Support"
+    email: "jan@bank.com"
+  onCallSupport:
+    - (089) 666-3216
+    - (089) 666-3217

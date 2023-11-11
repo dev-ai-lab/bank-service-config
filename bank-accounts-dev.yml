@@ -1,14 +1,11 @@
 build:
-    version: 2
+  version: "2.0"
 
 accounts:
-    activeBranches:
-    - New York
-    - Berlin
-    - Indianapollis
-    mailDetails:
-        from: dev-accounts@bank-service.com
-        hostName: dev-accounts@bank-service.com
-        port: 9020
-        subject: Your Account Details from Bank Dev Environment
-    msg: Welcome to the Bank Accounts Dev application
+  message: "Bank accounts DEV APIs "
+  contactDetails:
+    name: "Ahmad - Non-prod Support"
+    email: "ahmad@bank.com"
+  onCallSupport:
+    - (089) 666-3216
+    - (089) 666-3217
