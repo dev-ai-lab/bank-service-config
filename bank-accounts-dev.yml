@@ -4,6 +4,7 @@ build:
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/bank-accounts-db
+    driverClassName: com.mysql.cj.jdbc.Driver
     username: root
     password: root # NOT for production
   jpa:
