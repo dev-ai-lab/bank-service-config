@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+cards:
   message: "Bank cards APIs "
   contactDetails:
     name: "Jan Doe - Support"

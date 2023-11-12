@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-accounts:
+cards:
   message: "Bank cards DEV APIs "
   contactDetails:
     name: "Ahmad - Non-prod Support"

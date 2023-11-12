@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+loans:
   message: "Bank loans PROD APIs"
   contactDetails:
     name: "Jan Doe - Support"

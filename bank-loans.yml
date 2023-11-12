@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+loans:
   message: "Bank loans APIs "
   contactDetails:
     name: "Jan Doe - Support"

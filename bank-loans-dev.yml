@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-accounts:
+loans:
   message: "Bank loans DEV APIs "
   contactDetails:
     name: "Ahmad - Non-prod Support"
