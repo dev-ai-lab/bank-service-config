@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Bank accounts PROD APIs"
+  message: "Bank accounts prod APIs"
   contactDetails:
     name: "Jan Doe - Support"
     email: "{cipher}732993bdb0eaca99dfba12b002d879f2a5f99558d873a528293a52358c6374f7"
