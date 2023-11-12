@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Bank accounts APIs "
+  message: "Bank accounts default APIs "
   contactDetails:
     name: "Jan Doe - Support"
     email: "jan@bank.com"
