@@ -1,18 +1,6 @@
 build:
   version: "2.0"
 
-spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/bank-accounts-db
-    driverClassName:
-    username: root
-    password: root # NOT for production
-  jpa:
-    show-sql: true
-  sql:
-    init:
-      mode: always
-
 accounts:
   message: "Bank accounts DEV APIs "
   contactDetails:
